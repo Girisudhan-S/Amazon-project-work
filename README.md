@@ -1,5 +1,5 @@
 # Amazon Sales Analysis Project
-![amazon_india_wide_image-3](https://github.com/user-attachments/assets/d677b321-51f8-481c-8e88-4da41073f77e)
+![amazon_india_wide_image-3](https://github.com/user-attachments/assets/4ef16010-9e30-4462-ab93-921bfe96799e)
 
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
@@ -47,7 +47,8 @@ percentage.
 ![Top 2 Returning Categories Query](insert_image_link_here)
 
 ## Entity-Relationship Diagram (ERD)
-![ERD_Amazon](https://github.com/user-attachments/assets/7350d928-6412-4bd8-991e-d27cba670dc0)
+![ERD_Amazon](https://github.com/user-attachments/assets/774ee094-45fa-4eb9-a38f-6aad8c71b807)
+
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
 helps in identifying key entities and their attributes.
